@@ -1,4 +1,4 @@
-# Nguyễn Duy Hiếu, mssv 245752021610054 
+# Trần Đức Hiếu , msv : 245752021610073
 
 import math
 
@@ -16,3 +16,4 @@ try:
     Tinh(R)
 except ValueError:
     print("Giá trị nhập vào không hợp lệ! Vui lòng nhập một só.")
+
