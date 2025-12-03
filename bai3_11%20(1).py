@@ -1,4 +1,4 @@
-# Vương Giang Nam, mssv 245752021610085
+# Trần Đức Hiếu , msv : 245752021610073
 
 def benefit(t, n, k):
     return n * (1 + t/100)**k
@@ -9,3 +9,4 @@ k = float(input("Nhập số tháng gửi: "))
 
 tong_tien = benefit(t, n, k)
 print(f"Số tiền nhận được sau {k} tháng là: {tong_tien:.2f}")
+
